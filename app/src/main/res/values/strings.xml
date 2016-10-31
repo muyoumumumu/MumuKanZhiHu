@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">木木看知乎</string>
+    <string name="change_theme">切换主题</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">来点我</string>
+    <string name="noNetwork">没网</string>
+    <string name="go_to_set">滚去设置</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="likes">zan</string>
+    <string name="comments">PinLun</string>
+    <string name="action_open_in_browser">从浏览器打开</string>
+    <string name="loading">载入中...</string>
+    <string name="version">木木专用版1.0.2</string>
+    <string name="zan">赞</string>
+    <string name="share_extra">分享自 木木看知乎</string>
+    <string name="share_to">分享到</string>
+</resources>

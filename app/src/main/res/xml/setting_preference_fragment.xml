@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.preference.PreferenceCategory android:title="阅读">
+        <android.support.v7.preference.CheckBoxPreference
+            android:title="无图模式"
+            android:summary="阅读时不再加载图片"
+            android:defaultValue="false"
+            android:key="no_pic_mode" />
+        <android.support.v7.preference.CheckBoxPreference
+            android:title="使用外置浏览器"
+            android:summary="其他浏览器打开链接"
+            android:defaultValue="false"
+            android:key="use_other_browser" />
+    </android.support.v7.preference.PreferenceCategory>
+    <android.support.v7.preference.PreferenceCategory android:title="其他">
+        <android.support.v7.preference.CheckBoxPreference
+            android:title="禁止加载启动页"
+            android:summary="直接进入主界面"
+            android:defaultValue="false"
+            android:key="not_load_splash" />
+    </android.support.v7.preference.PreferenceCategory>
+</android.support.v7.preference.PreferenceScreen>
+

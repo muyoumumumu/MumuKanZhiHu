@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.activity.ZhihuReadActivity" >
+    <item android:id="@+id/action_likes"
+        android:title="@string/likes"
+        android:orderInCategory="97"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_comments"
+        android:title="@string/comments"
+        android:orderInCategory="98"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_open_in_browser"
+        android:title="@string/action_open_in_browser"
+        android:orderInCategory="99"
+        app:showAsAction="never" />
+</menu>
