@@ -4,7 +4,7 @@
 ![Gradle](https://img.shields.io/badge/gradle-2.2.2-blue.svg)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/muyoumumumu/MumuKanZhiHu/master/LICENSE)
 
-![icon](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/icon.png)
+![icon](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/main_icon.png)
 
 一款集合了知乎日报、果壳精选和dribbble的综合阅读客户端。
 
