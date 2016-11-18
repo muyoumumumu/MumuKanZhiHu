@@ -6,12 +6,14 @@
 
 ![icon](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/main_icon.png)
 
-一款集合了知乎日报、果壳精选和dribbble的综合阅读客户端。
+一款集合了知乎日报、果壳精选的综合阅读客户端。
 
 架构采用[Google Android Architecture Blueprints [beta]](https://github.com/googlesamples/android-architecture)
 
 ##截屏
-。。。待定
+![](https://github.com/muyoumumumu/QuShuChe/blob/master/screenshots/GIF.gif)
+![](https://github.com/muyoumumumu/QuShuChe/blob/master/screenshots/GIF2.gif)
+![](https://github.com/muyoumumumu/QuShuChe/blob/master/screenshots/scr1.png)
 
 ## 开源项目
 名称 | 介绍
