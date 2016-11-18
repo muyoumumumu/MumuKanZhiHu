@@ -11,11 +11,11 @@
 架构采用[Google Android Architecture Blueprints [beta]](https://github.com/googlesamples/android-architecture)
 
 ##截屏
-![scr1](https://github.com/muyoumumumu/QuShuChe/blob/master/screenshots/GIF.gif)
-![scr2](https://github.com/muyoumumumu/QuShuChe/blob/master/screenshots/GIF2.gif)
-![scr3](https://github.com/muyoumumumu/QuShuChe/blob/master/screenshots/scr1.png)
+![scr1](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/GIF.gif)
+![scr2](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/GIF2.gif)
+![scr3](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/scr1.png)
 
-## 开源项目
+## 感谢
 名称 | 介绍
 --------- | --------
 [Volley](https://android.googlesource.com/platform/frameworks/volley/) | Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository.
