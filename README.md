@@ -13,7 +13,6 @@
 ##截屏
 ![scr1](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/GIF.gif)
 ![scr2](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/GIF2.gif)
-![scr3](https://github.com/muyoumumumu/MumuKanZhiHu/blob/master/screenshots/scr1.png)
 
 ## 感谢
 名称 | 介绍
